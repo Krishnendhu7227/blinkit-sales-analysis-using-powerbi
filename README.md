@@ -41,9 +41,9 @@ https://www.kaggle.com/datasets/architgoel29/blinkit-dashboard
 
 ### Executive Sales Dashboard
 
-![Dashboard Screenshots][Executive Sales Dashboard](Dashboard%20Screenshots/Executive%20Sales%20Dashboard.png)
+![Executive Sales Dashboard](Dashboard%20Screenshots/Executive%20Sales%20Dashboard.png)
 
-![Dashboard Screenshots][Executive Sales Dashboard2](Dashboard%20Screenshots/Executive%20Sales%20Dashboard2.png)
+![Executive Sales Dashboard2](Dashboard%20Screenshots/Executive%20Sales%20Dashboard2.png)
 
 ---
 
