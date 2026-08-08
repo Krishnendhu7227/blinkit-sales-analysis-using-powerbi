@@ -116,13 +116,17 @@ Uses **Waterfall Chart, Matrix, and Decomposition Tree** for deeper analysis:
 
 The complete project files are available below:
 
-- 📊 **[Power BI Dashboard (.pbix)](PowerBI/BlinkIT_Sales_Analysis.pbix)**
+- ## 📁 Project Files
+
+The complete project files are available below:
+
+- 📊 **[Power BI Dashboard (.pbix)](./PowerBI/BlinkIT_Sales_Analysis.pbix)**
   - Interactive Power BI dashboard with all visualisations, DAX measures, and analysis.
 
-- 📄 **[Dashboard PDF](Dashboard/BlinkIT_Sales_Dashboard.pdf)**
+- 📄 **[Dashboard PDF](./Dashboard/BlinkIT_Sales_Dashboard.pdf)**
   - PDF version of the completed Power BI dashboard.
 
-- 📝 **[Detailed Documentation](Documentation/BlinkIT_Sales_Analysis_Documentation.docx)**
+- 📝 **[Detailed Documentation](./Documentation/BlinkIT_Sales_Analysis_Documentation.docx)**
   - Step-by-step documentation covering data cleaning, Power Query transformations, DAX measures, dashboard creation, tooltips, and analysis.
   ---
 
