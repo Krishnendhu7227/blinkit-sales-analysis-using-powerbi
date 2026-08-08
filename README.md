@@ -7,6 +7,16 @@ This project presents an interactive **Blinkit Sales Analysis Dashboard** develo
 The dashboard analyses sales performance across different outlet types, outlet sizes, outlet location tiers, item types, and item fat-content categories. It provides both high-level business KPIs and detailed product-level insights.
 
 ---
+## 📂 Dataset
+
+### Kaggle – BlinkIT Grocery Sales Dataset
+
+The dataset used for this project is the **BlinkIT Grocery Sales Dataset**, which is available on Kaggle.
+
+🔗 **[Dataset Link – Kaggle](https://www.kaggle.com/datasets/architgoel29/blinkit-dashboard)**
+
+
+---
 
 ## 🎯 Project Objectives
 
